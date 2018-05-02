@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Home":"Nh\u00e0","(active tab)":"(tab ho\u1ea1t \u0111\u1ed9ng)"}},"pluralFormula":{"default":0}};
